@@ -1,5 +1,5 @@
-print ("ingresa un numero")
-numero = input()
+print("ingresa un numero")
+numero = int(input())
 if numero >= 100:
     print("Hola mundo, mi primer codigo en python :3")
 else:
